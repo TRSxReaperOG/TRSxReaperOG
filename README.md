@@ -114,6 +114,18 @@ Engineered an **MCP Server & Client** for AI-driven data exchange between micros
 
 ---
 
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TRSxReaperOG/TRSxReaperOG/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TRSxReaperOG/TRSxReaperOG/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TRSxReaperOG/TRSxReaperOG/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 <div align="center">
 
 ### 🤝 Connect with me
