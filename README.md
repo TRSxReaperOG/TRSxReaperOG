@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Pratham%20Sharma&fontSize=48&fontColor=fff&desc=Backend%20%26%20Distributed%20Systems%20%7C%20Applied%20AI%2FLLMs&descSize=16&descAlign=50&descAlignY=62&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Pratham%20Sharma&fontSize=48&fontColor=fff&desc=Backend%20%26amp%3B%20Distributed%20Systems%20%7C%20Applied%20AI%2FLLMs&descSize=16&descAlign=50&descAlignY=62&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A82DA8&center=true&vCenter=true&width=600&lines=Building+Titan+%40+Cyble+(YC+W21)+since+day+one;Scaled+pipelines+past+500M%2B+events%2Fday;Cut+infra+cost+up+to+70%25+in+production;Open+to+relocation+%26+visa+sponsorship)](https://git.io/typing-svg)
 
