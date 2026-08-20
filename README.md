@@ -100,16 +100,16 @@ Engineered an **MCP Server & Client** for AI-driven data exchange between micros
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TRSxReaperOG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pratham's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRSxReaperOG&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TRSxReaperOG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pratham's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TRSxReaperOG&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TRSxReaperOG&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=TRSxReaperOG&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TRSxReaperOG&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-trophies.vercel.app/?username=TRSxReaperOG&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 ---
